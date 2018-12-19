@@ -1,0 +1,28 @@
+net: "../models/dense_unet_train.prototxt"
+iter_size: 8
+#test_iter: 221
+#test_interval: 300
+#test_initialization: false
+display: 10
+base_lr: 1e-4
+#lr_policy: "multistep"
+lr_policy: "fixed"
+type: "Adam"
+momentum: 0.9
+momentum2: 0.999
+delta: 1e-8
+
+#stepvalue: 1500
+#stepvalue: 3000
+#stepvalue: 5000
+#stepvalue: 15000
+#stepvalue: 25000
+#stepvalue: 35000
+#gamma: 0.1
+max_iter: 500000
+#momentum: 0.99
+weight_decay: 0.0002
+snapshot: 2000
+snapshot_prefix: "../snapshots/dense_unet"
+solver_mode: GPU
+

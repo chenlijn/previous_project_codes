@@ -1,0 +1,2 @@
+optic_axis_not_involved 0
+optic_axis_involved 1

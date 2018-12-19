@@ -1,0 +1,68 @@
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/mydriasis_diffuse_light/211024.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/mydriasis_diffuse_light/49080.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/mydriasis_diffuse_light/52244.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/mydriasis_diffuse_light/60493.jpg 2
+prediction: 0, healthy
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/53243.jpg 2
+prediction: 0, healthy
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/61671.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/65774.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/65776.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/94005.jpg 2
+prediction: 0, healthy
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/95704.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/96589.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/96717.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/97534.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/97723.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/after_surgery/small_pupil_diffuse_light/97730.jpg 2
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/20150920-13815-148557.jpg 0
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/20150920-13819-148583.jpg 0
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/20150920-13832-148679.jpg 0
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/20150920-13833-148691.jpg 0
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/206973.jpg 0
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/207064.jpg 0
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/223997.jpg 0
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/223998.jpg 0
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/89618.jpg 0
+prediction: 1, ill
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/healthy/mydriasis_diffuse_light/95161.jpg 0
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/mydriasis_diffuse_light/105792.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/mydriasis_diffuse_light/106676.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/small_pupil_diffuse_light/184725.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/small_pupil_diffuse_light/186444.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/small_pupil_diffuse_light/186551.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/small_pupil_diffuse_light/188984.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/small_pupil_diffuse_light/189613.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/small_pupil_diffuse_light/189616.jpg 1
+prediction: 2, after_surgery
+/root/mount_out/zhongshan_ophthalmology_cataract_images_20170906/ill/small_pupil_diffuse_light/190615.jpg 1
+prediction: 2, after_surgery

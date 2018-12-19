@@ -1,0 +1,2 @@
+partial_occlusion 0
+complete_occlusion 1

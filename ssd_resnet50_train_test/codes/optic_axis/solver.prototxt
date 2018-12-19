@@ -1,0 +1,18 @@
+net: "/home/gaia/share/cataractData/codes/optic_axis/resnet50_optic_axis_train_val.prototxt"
+iter_size: 2 
+test_iter: 8 
+test_interval: 10
+test_initialization: false
+display: 10
+base_lr: 0.0001
+lr_policy: "multistep"
+stepvalue: 8000
+stepvalue: 12000
+
+gamma: 0.1
+max_iter: 400000 #318 epochs
+momentum: 0.9
+weight_decay: 0.0001
+snapshot: 10000
+snapshot_prefix: "/home/gaia/share/cataractData/codes/optic_axis/snapshots/resnet_optic_axis"
+solver_mode: GPU
