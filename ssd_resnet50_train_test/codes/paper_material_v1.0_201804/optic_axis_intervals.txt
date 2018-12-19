@@ -1,0 +1,16 @@
+[[ 0.95200002  0.69999999]
+ [ 0.69999999  0.95200002]]
+accuracy: 0.88
+acc interval: (0.82243160359944978, 0.92416153846418325)
+
+ optic_axis_not_involved: 
+sensitivity: 0.952
+sensitivity intervals: (0.8984513189113783, 0.98218367749949742)
+specificity: 0.7
+specificity intervals: (0.55391767433882177, 0.82138215433585304)
+
+ optic_axis_involved: 
+sensitivity: 0.7
+sensitivity intervals: (0.55391767433882177, 0.82138215433585304)
+specificity: 0.952
+specificity intervals: (0.8984513189113783, 0.98218367749949742)

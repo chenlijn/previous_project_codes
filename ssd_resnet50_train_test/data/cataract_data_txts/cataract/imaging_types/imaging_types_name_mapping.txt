@@ -1,0 +1,4 @@
+mydriasis_diffuse_light 0
+mydriasis_slit_light 1
+small_pupil_diffuse_light 2
+small_pupil_slit_light 3

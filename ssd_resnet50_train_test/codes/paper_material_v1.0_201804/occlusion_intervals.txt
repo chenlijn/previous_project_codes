@@ -1,0 +1,16 @@
+[[ 1.  1.]
+ [ 1.  1.]]
+accuracy: 1.0
+acc interval: (0.88781125307763009, nan)
+
+ partial_occlusion: 
+sensitivity: 1.0
+sensitivity intervals: (0.71508584708184553, nan)
+specificity: 1.0
+specificity intervals: (0.83156652901691475, nan)
+
+ complete_occlusion: 
+sensitivity: 1.0
+sensitivity intervals: (0.83156652901691475, nan)
+specificity: 1.0
+specificity intervals: (0.71508584708184553, nan)

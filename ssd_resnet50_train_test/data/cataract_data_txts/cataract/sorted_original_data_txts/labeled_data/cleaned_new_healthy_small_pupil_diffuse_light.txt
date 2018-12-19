@@ -1,0 +1,1496 @@
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/10 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/10 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/10 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/10.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/100 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/100 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/100 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/100 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/100 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/101 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/101 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/101 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/101.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/102 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/102 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/102 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/102 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/103 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/103 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/103 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/103 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/103.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/104 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/104 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/104 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/104 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/105 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/105 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/105 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/105.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/106 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/106 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/106 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/106 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/106 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/107 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/107 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/107 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/107.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/108 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/108 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/108 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/108 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/108 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/109 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/109 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/109 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/109.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/11 (11).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/11 (12).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/11 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/11 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/11 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/11 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/110 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/110 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/110 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/110 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/111 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/111 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/111 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/111 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/111.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/112 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/112 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/112 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/112 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/112 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/112 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/113 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/113 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/113 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/113 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/113.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/114 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/114 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/114 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/114 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/115 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/115 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/115 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/115.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/116 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/116 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/116 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/116 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/117 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/117 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/117 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/117.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/118 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/118 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/118 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/118 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/119 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/119 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/119 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/119 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/119.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/12 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/12 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/12 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/12.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/120 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/120 (11).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/120 (12).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/120 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/120 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/120 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/121 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/121 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/121 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/121 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/121.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/122 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/122 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/122 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/123 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/123 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/123 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/123.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/124 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/124 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/124 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/124 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/124 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/125 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/125 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/125 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/125 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/125.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/126 (11).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/126 (12).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/126 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/126 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/126 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/127 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/127 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/127 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/127.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/128 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/128 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/128 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/128 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/129 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/129 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/129 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/129.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/13 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/13 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/13 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/13 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/130 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/130 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/130 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/130 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/131 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/131 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/131 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/131 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/132 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/132 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/132.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/133 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/133 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/133 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/134 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/134 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/134 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/134.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/135 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/135 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/135 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/135 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/136 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/136 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/136 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/136 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/137 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/137 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/137 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/137.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/138 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/138 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/138 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/138 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/139 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/139 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/139 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/139.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/14 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/14 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/14 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/14.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/140 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/140 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/140 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/140 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/141 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/141 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/141 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/141.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/142 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/142 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/142 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/142 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/143 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/143 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/143 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/143.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/144 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/144 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/144 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/144 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/145 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/145 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/145 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/145.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/146 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/146 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/146 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/146 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/147 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/147 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/147 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/147.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/148 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/148 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/148 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/148 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/149 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/149 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/149 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/149.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/15 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/15 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/15 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/15 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/150 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/150 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/150 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/150 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/151 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/151 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/151 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/151.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/152 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/152 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/152 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/152 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/153 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/153 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/153.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/154 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/154 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/154 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/154 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/155 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/155 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/155 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/156 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/156 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/156 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/156 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/157 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/157 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/157.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/158 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/158 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/158 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/158 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/159 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/159 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/159.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/16 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/16 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/16 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/16.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/160 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/160 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/160 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/160 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/161 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/161 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/161.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/162 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/162 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/162 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/162 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/163 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/163 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/163 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/163.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/164 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/164 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/164 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/164 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/165 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/165 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/165 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/165.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/166 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/166 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/166 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/166 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/167 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/167 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/167 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/167.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/168 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/168 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/168 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/168 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/169 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/169 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/169 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/169.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/17 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/17 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/17 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/17 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/170 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/170 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/170 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/170 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/171 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/171 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/171 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/171.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/172 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/172 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/172 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/172 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/173 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/173 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/173 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/173.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/174 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/174 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/174 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/174 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/175 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/175 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/176 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/176 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/176 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/176 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/177 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/177 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/177 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/177.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/178 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/178 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/178 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/178 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/179 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/179 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/179 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/179.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/18 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/18 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/18 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/18.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/180 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/180 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/180 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/180 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/181 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/181 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/181 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/181.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/182 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/182 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/182 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/182 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/183 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/183 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/183 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/183.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/184 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/184 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/184 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/184 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/185 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/185 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/185 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/185.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/186 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/186 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/186 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/186 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/187 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/187 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/187 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/187.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/188 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/188 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/188 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/188 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/189 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/189 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/189 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/189.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/19 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/19 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/19 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/19 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/190 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/190 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/190 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/191 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/191 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/191 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/191.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/192 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/192 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/192 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/192 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/193 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/193 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/193 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/193.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/194 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/194 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/194 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/194 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/195 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/195 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/195 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/195.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/196 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/196 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/196 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/196 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/197 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/197 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/197 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/197.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/198 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/198 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/198 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/198.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/199 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/199 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/199 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/199 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/20 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/20 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/20 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/20.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/200 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/200 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/200 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/200.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/201 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/201 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/201 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/201 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/202 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/202 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/202 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/202.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/203 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/203 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/203 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/203 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/204 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/204 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/204 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/204.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/205 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/205 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/205 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/205 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/206 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/206 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/206 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/206.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/207 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/207 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/207 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/207 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/208 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/208 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/208 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/208.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/209 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/209 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/209 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/209 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/21 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/21 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/21 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/21 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/210 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/210 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/210.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/211 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/211 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/211 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/211 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/212 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/212 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/212 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/212.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/213 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/213 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/213 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/213 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/214 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/214 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/214 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/214.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/215 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/215 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/215 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/215 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/216 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/216 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/216 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/216.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/217 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/217 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/217 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/217 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/218 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/218 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/218 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/218.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/219 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/219 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/219 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/219 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/22 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/22 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/22 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/22.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/220 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/220 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/220 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/220.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/221 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/221 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/221 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/221 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/222 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/222 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/222 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/222.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/223 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/223 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/223 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/223 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/224 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/224 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/224 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/224.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/225 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/225 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/225 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/225 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/226 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/226 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/226 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/226.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/227 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/227 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/227 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/227 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/228 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/228 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/228 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/228.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/229 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/229 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/229 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/229 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/23 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/23 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/23 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/230 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/230 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/230 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/230.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/231 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/231 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/231 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/231 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/232 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/232 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/232 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/232.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/233 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/233 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/233 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/233 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/234 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/234 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/234 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/234.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/235 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/235 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/235 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/235 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/236 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/236 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/236 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/236.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/237 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/237 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/237 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/237 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/238 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/238 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/238 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/238.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/239 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/239 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/239 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/239 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/24 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/24 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/24 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/24.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/240 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/240 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/240 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/240.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/241 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/241 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/241 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/241 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/242 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/242 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/242 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/242 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/243 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/243 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/243 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/243.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/244 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/244 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/244 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/244 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/245 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/245 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/245 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/245 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/246 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/246 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/246 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/246 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/247 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/247 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/247 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/247.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/248 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/248 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/248 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/248 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/249 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/249 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/249 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/249.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/25 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/25 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/25 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/25 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/250 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/250 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/250 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/250 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/251 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/251 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/251 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/251.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/252 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/252 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/252 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/252 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/253 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/253 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/253 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/253.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/254 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/254 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/254 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/254 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/255 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/255 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/255 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/255.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/256 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/256 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/256 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/257 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/257 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/257 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/257.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/258 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/258 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/258 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/258 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/259 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/259 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/259 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/259.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/26 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/26 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/26 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/26.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/260 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/260 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/260 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/260 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/261 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/261 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/261 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/261.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/262 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/262 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/262 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/262 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/263 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/263 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/263 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/263.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/264 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/264 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/264 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/264 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/265 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/265 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/265 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/265.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/266 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/266 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/266 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/266.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/267 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/267 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/267 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/267.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/268 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/268 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/268 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/268 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/269 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/269 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/269 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/269.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/27 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/27 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/27 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/27 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/270 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/270 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/270 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/270.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/271 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/271 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/271 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/271 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/272 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/272 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/272 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/272.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/273 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/273 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/273 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/273 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/274 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/274 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/274 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/274.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/275 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/275 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/275 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/275 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/276 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/276 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/276 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/276.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/277 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/277 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/277 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/277 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/278 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/278 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/278.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/279 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/279 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/279 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/279 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/28 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/28 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/28 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/28.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/280 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/280 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/280 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/280.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/281 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/281 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/281 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/282 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/282 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/282 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/282.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/283 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/283 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/283 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/283 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/284 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/284 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/284 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/284 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/284.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/285 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/285 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/285 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/285 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/286 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/286 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/286 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/286 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/286.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/287 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/287 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/287 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/287 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/288 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/288 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/288 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/288.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/289 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/289 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/289 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/289 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/29 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/29 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/29 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/29 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/290 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/290.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/291 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/291 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/291 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/291 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/293 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/293 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/293 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/293.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/294 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/294 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/294 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/294 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/295 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/295 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/295 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/295.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/296 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/296 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/296 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/296 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/297 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/297 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/297 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/297 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/297.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/298 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/298 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/298 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/298 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/299 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/299 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/299 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/299.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/30 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/30 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/30 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/30.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/300 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/300 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/300 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/300 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/301 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/301 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/301 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/301.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/302 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/302 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/302 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/302 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/303 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/303 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/303 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/303.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/304 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/304 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/304 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/304 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/305 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/305 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/305 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/305.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/306 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/306 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/306 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/306 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/307 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/307 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/307 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/307.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/308 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/308 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/308 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/308 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/309 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/309 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/309 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/309.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/31 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/31 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/31 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/31 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/310 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/310 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/310 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/310 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/311 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/311 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/311 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/311.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/312 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/312 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/312.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/313 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/313 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/313 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/313 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/314 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/314 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/314 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/314.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/315 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/315 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/315 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/315 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/316 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/316 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/316 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/316.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/317 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/317 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/317 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/317 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/318 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/318 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/318.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/319 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/319 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/319 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/319 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/319 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/32 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/32 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/32 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/32 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/32.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/320 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/320 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/320 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/320.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/321 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/321 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/321 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/321 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/322 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/322 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/322 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/322.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/323 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/323 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/323 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/323 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/324 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/324 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/324 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/324.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/325 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/325 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/325 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/325 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/326 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/326 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/326 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/326 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/326.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/327 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/327 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/327 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/327 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/328 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/328 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/328 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/328.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/329 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/329 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/329 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/329 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/33 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/33 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/33 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/33 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/330 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/330 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/330 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/330.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/331 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/331 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/331 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/331 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/332 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/332.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/333 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/333 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/333 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/333.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/334 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/334 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/334 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/334 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/334 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/335 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/335 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/335 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/335.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/336 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/336 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/336 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/336 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/337 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/337 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/337 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/337.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/338 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/338.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/339 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/339 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/339 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/339 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/34 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/34 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/34 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/34.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/340 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/340 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/340 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/340.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/341 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/341 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/341 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/341 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/342 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/342 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/342 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/342.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/343 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/343 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/343 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/344 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/344 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/344 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/344.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/345 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/345 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/345 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/345 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/346 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/346 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/346 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/346.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/347 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/347 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/347 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/347 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/348 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/348 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/348 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/348.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/349 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/349 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/349 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/349 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/35 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/35 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/35 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/35 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/350 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/350 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/350.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/351 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/351 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/351 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/351 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/352 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/352 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/352 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/352.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/353 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/353 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/353 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/353 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/354 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/354 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/354 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/354.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/355 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/355 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/356 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/356.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/357 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/357 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/358 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/358.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/359 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/359 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/36 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/36 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/36 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/36.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/360 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/360.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/361 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/361 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/361 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/362 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/362.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/363 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/363 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/364 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/364.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/365 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/365 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/366 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/366.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/367 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/368 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/368.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/369 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/369 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/37 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/37 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/37 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/37 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/370 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/370.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/371 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/372 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/372.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/373 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/373 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/374 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/374.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/375 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/375 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/376 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/376.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/377 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/377 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/378 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/378.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/379 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/379 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/38 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/38 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/38 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/38.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/380 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/380.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/381 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/381 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/383 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/383.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/384 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/384 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/385 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/386 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/386 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/387 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/387.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/388 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/388 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/389 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/389.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/39 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/39 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/39 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/39 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/390 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/390 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/391 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/391.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/392 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/392 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/393 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/393.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/394 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/394 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/395.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/396 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/396 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/397 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/397.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/398 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/398 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/40 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/40 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/40 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/40.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/400 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/400 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/401 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/401.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/402 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/402 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/403 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/403.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/404 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/404 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/405 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/405.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/406 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/406 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/407 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/407.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/408 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/408 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/409 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/409.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/41 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/41 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/41 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/410 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/410 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/411 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/411.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/412 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/412 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/412 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/413 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/413.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/414 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/415 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/415.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/416 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/416 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/417 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/417.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/42 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/42 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/42 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/42.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/43 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/43 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/43 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/43 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/44 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/44 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/44 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/44.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/45 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/45 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/45 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/45 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/46 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/46 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/46 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/47 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/47 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/47 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/48 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/48 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/48 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/48.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/49 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/49 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/49 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/49 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/50 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/50 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/50 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/50.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/51 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/51 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/51 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/51 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/51 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/52 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/52 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/52 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/52.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/53 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/53 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/53 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/53 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/54 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/54 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/54 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/54 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/54.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/55 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/55 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/55 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/55 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/56 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/56 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/56 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/56.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/57 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/57 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/57 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/57 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/58 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/58 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/58 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/58.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/59 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/59 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/59 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/59 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/60 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/60 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/60 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/60.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/61 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/61 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/61 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/61 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/62 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/62 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/62 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/62.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/63 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/63 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/63 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/63 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/64 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/64 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/64 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/64.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/65 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/65 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/65 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/65 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/66 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/66 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/66 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/66 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/66.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/67 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/67 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/67 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/67 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/67 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/67 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/68 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/68 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/68 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/68.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/69 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/69 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/69 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/69 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/7 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/70 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/70 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/70 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/70.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/71 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/71 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/71 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/71 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/72 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/72 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/73 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/73 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/73 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/74 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/74 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/74 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/74 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/75 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/75 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/75 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/75.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/76 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/76 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/76 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/76 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/77 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/77 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/77.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/78 (10).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/78 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/78 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/78 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/78 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/79 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/79 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/79 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/79.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/8 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/8 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/80 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/80 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/80 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/80 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/81 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/81 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/81.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/82 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/82 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/82 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/82 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/83 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/83 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/83 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/83.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/84 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/84 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/84 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/84 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/84 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/85 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/85 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/85 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/85.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/86 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/86 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/86 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/86 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/87 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/87 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/87 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/87.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/88 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/88 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/88 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/89 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/89 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/89 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/89.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/9 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/9 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/9 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/9 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/90 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/90 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/90 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/90 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/91 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/91 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/91.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/92 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/92 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/92 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/93 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/93 (3).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/93 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/93 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/93.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/94 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/94 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/94 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/94 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/95 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/95 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/95 (7).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/95.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/96 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/96 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/96 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/96 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/97 (2).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/97 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/97 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/97.JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/98 (4).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/98 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/98 (8).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/98 (9).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/99 (5).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/99 (6).JPG 0
+/mnt/lijian/mount_out/zhongshan_ophthalmology_data_20171214/healthy/small_pupil_diffuse_light/99.JPG 0

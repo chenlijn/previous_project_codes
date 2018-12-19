@@ -1,0 +1,3 @@
+healthy 0
+ill 1
+after_surgery 2
